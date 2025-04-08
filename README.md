@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/templates-awesome-ff69b4.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/ready%20to%20use-yes-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/All-You-Need-Is-Template?style=social" />
+  <img src="https://img.shields.io/github/stars/aynitstore?style=social" />
 </p>
 
 ---
